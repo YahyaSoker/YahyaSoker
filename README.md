@@ -12,7 +12,11 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 - Designed end-to-end inference for breast cancer detection, optimizing Python logic into C++ bindings for 40% lower latency.
 - Built a secure "Talk-to-your-Data" tool using Hybrid Search (BM25 + Vector) and Apache NiFi pipelines.
 - Engineered a hot-swappable mobile inference engine (Kotlin/ONNX) that switches neural architectures at runtime without app updates.
-
+  
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 ---
 
 ### 🛠️ Tech Stack
@@ -45,8 +49,3 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/yahya-soker/)
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
