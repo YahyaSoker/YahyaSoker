@@ -36,10 +36,16 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" width="48%" />
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" width="48%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-blush-ten-94.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=5" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/yahya-soker/)
