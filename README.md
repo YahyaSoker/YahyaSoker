@@ -17,8 +17,8 @@ I specialize in building end-to-end AI-driven applications and orchestrating lar
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://yahya-soker.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" width="48%" />
-  <img src="https://yahya-soker.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-chi-flame-70.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" width="48%" />
+  <img src="https://github-readme-stats-chi-flame-70.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ### 📫 Connect
