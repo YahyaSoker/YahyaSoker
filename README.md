@@ -17,6 +17,7 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 <div align="center">
   <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 ---
 
 ### 🛠️ Tech Stack
