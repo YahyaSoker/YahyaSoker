@@ -52,7 +52,7 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 📫 Connect
 <p align="left">
-  <a href="https://linkedin.com/in/yahya-soker">
+  <a href="https://linkedin.com/in/yahyasoker">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:artificialyahya@gmail.com">
