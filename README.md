@@ -12,14 +12,14 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 🚀 Key Projects
 
-- Architected a local LLM cluster (vLLM) and a "Router Agent" system, cutting token costs by 30% and operational costs by 60%.
-- Designed end-to-end inference for breast cancer detection, optimizing Python logic into C++ bindings for 40% lower latency.
-- Built a secure "Talk-to-your-Data" tool using Hybrid Search (BM25 + Vector) and Apache NiFi pipelines.
-- Engineered a hot-swappable mobile inference engine (Kotlin/ONNX) that switches neural architectures at runtime without app updates.
+- **Nebulai Ecosystem:** Architected a local LLM cluster (vLLM) and a "Router Agent" system, cutting token costs by 30% and operational costs by 60%.
+- **OpTomo (Medical):** Designed end-to-end inference for breast cancer detection, optimizing Python logic into C++ bindings for 40% lower latency.
+- **Enterprise RAG:** Built a secure "Talk-to-your-Data" tool using Hybrid Search (BM25 + Vector) and Apache NiFi pipelines.
+- **Edge-AI Engine:** Engineered a hot-swappable mobile inference engine (Kotlin/ONNX) that switches neural architectures at runtime without app updates.
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
@@ -45,6 +45,12 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YahyaSoker&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+<br />
+
 <p align="left">
   <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" />
   <br />
@@ -53,4 +59,18 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 </p>
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/yahya-soker/)
+<p align="left">
+  <a href="https://linkedin.com/in/yahya-soker">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:artificialyahya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.kaggle.com/yahyasoker">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YahyaSoker&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
+</div>
