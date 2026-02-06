@@ -45,17 +45,9 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YahyaSoker&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-<br />
-
-<p align="left">
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" alt="YahyaSoker's Github Stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=5" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=5" height="150" alt="Langs" />
 </p>
 
 ### 📫 Connect
