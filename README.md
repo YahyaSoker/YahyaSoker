@@ -45,3 +45,8 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/yahya-soker/)
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/YahyaSoker/YahyaSoker/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
