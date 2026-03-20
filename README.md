@@ -12,26 +12,30 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 🚀 Key Architecture & Projects
 
-**Local NotebookLM & Mind-Mapper** > An open-source research assistant using **LLM-aided OCR** to extract handwritten "stickers" and notes from images. It dynamically generates interactive **Mermaid mind maps** and stores extractions in a vectorized knowledge base for local RAG.
-> `LLM OCR` `Vector DB` `Mermaid.js` `Local RAG`
+**Local NotebookLM & Mind-Mapper**
+> Built a local research assistant using LLM-aided OCR to extract handwritten "stickers" and notes. Powered by a local LLM, it dynamically generates interactive, expandable flowcharts and a vectorized knowledge base for local RAG.
+> ⚙️ **Flow:** `Image Ingest` ➔ `LLM OCR` ➔ `Entity Extraction` ➔ `Dynamic Expanding Flowchart`
+> 🛠️ **Tech:** `Local LLM` `Dynamic UI` `OCR` `Local RAG`
 
 **Nebulai Ecosystem**
-> Architected a local LLM cluster (**vLLM**) and a "Router Agent" orchestration system.
-> **Impact:** Cut token costs by 30% and operational costs by 60%.
-> `vLLM` `Agentic Routing` `Cost Optimization`
+> Architected a local LLM cluster and an agentic routing system. Cut token costs by 30% and operational costs by 60%.
+> ⚙️ **Flow:** `User Query` ➔ `Router Agent` ➔ `vLLM Cluster` ➔ `Cost-Optimized Output`
+> 🛠️ **Tech:** `vLLM` `Agentic Orchestration` `Cost Optimization`
 
 **OpTomo (Medical Diagnostic Pipeline)**
-> Designed end-to-end inference for breast cancer detection. Optimized Python logic into **C++ bindings** for deployment.
-> **Impact:** Achieved 40% lower latency for real-time edge processing.
-> `C++` `Python` `Edge Inference`
+> Designed an end-to-end inference pipeline for breast cancer detection, migrating heavy Python logic to hardware-accelerated bindings for a 40% latency reduction.
+> ⚙️ **Flow:** `Medical Scan` ➔ `Python Preprocessing` ➔ `C++ Inference Bindings` ➔ `Real-Time Diagnosis`
+> 🛠️ **Tech:** `C++` `Python` `Hardware Optimization` `Edge Inference`
 
 **Secure Enterprise RAG**
-> Built an air-gapped "Talk-to-your-Data" tool using Hybrid Search (**BM25 + Vector**) and data pipelines.
-> `Apache NiFi` `Milvus / Pinecone` `Hybrid Search`
+> Built an air-gapped "Talk-to-your-Data" tool utilizing hybrid search and robust data engineering pipelines.
+> ⚙️ **Flow:** `Enterprise Data` ➔ `Apache NiFi Ingest` ➔ `Hybrid Search (BM25 + Vector)` ➔ `Secure LLM`
+> 🛠️ **Tech:** `Apache NiFi` `Milvus / Pinecone` `Hybrid Search` `Air-gapped LLM`
 
 **Mobile Edge-AI Engine**
-> Engineered a hot-swappable mobile inference engine that switches neural architectures at runtime without app updates.
-> `Kotlin` `ONNX` `Android`
+> Engineered a hot-swappable mobile inference engine capable of switching neural architectures at runtime without requiring app store updates.
+> ⚙️ **Flow:** `Android App` ➔ `Kotlin Orchestrator` ➔ `ONNX Model Hot-Swap` ➔ `On-Device Inference`
+> 🛠️ **Tech:** `Kotlin` `ONNX` `Android SDK` `Neural Architecture`
 
 ### 🐍 Contribution Snake
 <div align="center">
