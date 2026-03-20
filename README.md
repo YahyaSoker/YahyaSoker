@@ -10,12 +10,28 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Key Architecture & Projects
 
-- **Nebulai Ecosystem:** Architected a local LLM cluster (vLLM) and a "Router Agent" system, cutting token costs by 30% and operational costs by 60%.
-- **OpTomo (Medical):** Designed end-to-end inference for breast cancer detection, optimizing Python logic into C++ bindings for 40% lower latency.
-- **Enterprise RAG:** Built a secure "Talk-to-your-Data" tool using Hybrid Search (BM25 + Vector) and Apache NiFi pipelines.
-- **Edge-AI Engine:** Engineered a hot-swappable mobile inference engine (Kotlin/ONNX) that switches neural architectures at runtime without app updates.
+**Local NotebookLM & Mind-Mapper** > An open-source research assistant using **LLM-aided OCR** to extract handwritten "stickers" and notes from images. It dynamically generates interactive **Mermaid mind maps** and stores extractions in a vectorized knowledge base for local RAG.
+> `LLM OCR` `Vector DB` `Mermaid.js` `Local RAG`
+
+**Nebulai Ecosystem**
+> Architected a local LLM cluster (**vLLM**) and a "Router Agent" orchestration system.
+> **Impact:** Cut token costs by 30% and operational costs by 60%.
+> `vLLM` `Agentic Routing` `Cost Optimization`
+
+**OpTomo (Medical Diagnostic Pipeline)**
+> Designed end-to-end inference for breast cancer detection. Optimized Python logic into **C++ bindings** for deployment.
+> **Impact:** Achieved 40% lower latency for real-time edge processing.
+> `C++` `Python` `Edge Inference`
+
+**Secure Enterprise RAG**
+> Built an air-gapped "Talk-to-your-Data" tool using Hybrid Search (**BM25 + Vector**) and data pipelines.
+> `Apache NiFi` `Milvus / Pinecone` `Hybrid Search`
+
+**Mobile Edge-AI Engine**
+> Engineered a hot-swappable mobile inference engine that switches neural architectures at runtime without app updates.
+> `Kotlin` `ONNX` `Android`
 
 ### 🐍 Contribution Snake
 <div align="center">
