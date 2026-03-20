@@ -1,4 +1,4 @@
-# Hi there, I'm Yahya Söker 👋
+# Hi there, I'm Yahya Söker 👋 
 
 ### AI Solutions Architect | Edge-AI & Real-Time Inference
 
