@@ -100,8 +100,7 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api?username=YahyaSoker&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&hide_rank=true&v=3" height="150" alt="Stats" />
-  <img src="https://github-readme-stats-blush-ten-94.vercel.app/api/top-langs/?username=YahyaSoker&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=5" height="150" alt="Langs" />
+  <img src="https://streak-stats.demolab.com?user=YahyaSoker&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect
