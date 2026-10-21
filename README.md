@@ -46,6 +46,15 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 
 ### 🛠️ Tech Stack
 
+**Cloud & Enterprise AI**
+<br>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logoColor=white" alt="Azure OpenAI" />
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logoColor=white" alt="Azure AI Foundry" />
+<img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge&logoColor=white" alt="Azure Speech" />
+<img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logoColor=white" alt="Bicep" />
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
+
 **Edge AI & Hardware Optimization**
 <br>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -58,6 +67,8 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 **Generative AI & Agents**
 <br>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logoColor=white" alt="vLLM" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -67,6 +78,8 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 <img src="https://img.shields.io/badge/Apache%20NiFi-729819?style=for-the-badge&logo=apache&logoColor=white" alt="Apache NiFi" />
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logoColor=white" alt="pgvector" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 **Computer Vision**
@@ -75,11 +88,16 @@ I bridge the gap between research-grade ML models and production hardware. My fo
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
 
-**Serving & DevOps**
+**Full Stack & DevOps**
 <br>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 ---
