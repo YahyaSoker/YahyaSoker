@@ -1,16 +1,40 @@
 # Hi there, I'm Yahya Söker 👋 
 
-### AI Solutions Architect | Edge-AI & Real-Time Inference
+### AI Solutions Architect | Enterprise AI Agents · Edge & Local AI · Full Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Edge-AI+Systems;Orchestrating+LLM+Agents;Optimizing+Inference+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Enterprise+AI+Agents;Running+LLMs+Locally;Shipping+Edge-AI+Systems;From+Cloud+to+Device" alt="Typing SVG" />
 </div>
 
-I bridge the gap between research-grade ML models and production hardware. My focus is on **air-gapped multimodal agents**, **medical diagnostic pipelines**, and **high-concurrency streaming systems**.
+I build AI systems end to end, wherever they need to run: **agentic platforms on Azure** for enterprise teams, **air-gapped LLMs and RAG** on local hardware, and **real-time inference** on edge and mobile devices. Currently at **PEAKUP**, taking AI products from first prototype to production.
 
 ---
 
 ### 🚀 Key Architecture & Projects
+
+#### 🏢 Enterprise AI
+
+**Read-only Ops ChatOps Agent**
+> An assistant for enterprise IT operations teams. Engineers ask about system health in plain language and get answers pulled from logs, clusters, databases and message queues in a single chat, scoped to their own permissions and fully audited. Read-only by design.
+> ⚙️ **Flow:** `Question` ➔ `Role-Based Access Check` ➔ `MCP Tools (Logs · OpenShift · DB · Kafka)` ➔ `Audited Answer`
+> 🛠️ **Tech:** `MCP` `OpenShift` `Kafka` `Azure OpenAI` `Python`
+
+**Solution Design Agent**
+> Collects sales requirements from chat, forms or customer documents. An LLM structures them, a rule engine produces deterministic sizing, and the output is a single reviewable Word report that ships only after human approval.
+> ⚙️ **Flow:** `Requirements` ➔ `LLM Structuring` ➔ `Deterministic Rule Engine` ➔ `Human-Approved Report`
+> 🛠️ **Tech:** `FastAPI (SSE)` `React` `PostgreSQL + pgvector` `Hybrid Search` `Docker`
+
+**AI Adoption & Maturity Platform**
+> A multilingual platform where employees complete a voice or text interview. The system scores AI maturity, builds an explainable capability profile and surfaces automation opportunities for the organization.
+> ⚙️ **Flow:** `Voice Interview` ➔ `Speech-to-Text` ➔ `Agent Scoring` ➔ `Personal & Org Reports`
+> 🛠️ **Tech:** `Next.js` `FastAPI` `Azure OpenAI` `Azure Speech` `PostgreSQL`
+
+**Multi-Agent Orchestration Platform**
+> An internal chat platform where a router sends each question to the right department agent and streams the answer token by token, both on the web and inside Microsoft Teams / M365 Copilot.
+> ⚙️ **Flow:** `User Query` ➔ `Router` ➔ `Department Agents` ➔ `SSE Stream (Web · Teams)`
+> 🛠️ **Tech:** `Azure OpenAI` `Cosmos DB` `Redis` `Entra ID` `Teams`
+
+#### 🔬 Edge & Local AI
 
 **Local NotebookLM & Mind-Mapper**
 > Built a local research assistant using LLM-aided OCR to extract handwritten "stickers" and notes. Powered by a local LLM, it dynamically generates interactive, expandable flowcharts and a vectorized knowledge base for local RAG.
